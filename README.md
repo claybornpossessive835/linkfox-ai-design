@@ -20,6 +20,40 @@
 
 LinkFox AI设计平台是一个功能强大的AI驱动的图像生成和电商设计平台，提供智能修图、场景制变、商品图生成、AI穿衣、真人模特等多种AI设计功能。
 
+## 📸 项目预览
+
+### 首页 - 功能展示
+![首页](./screenshots/home.png)
+*六大AI功能模块、上传区域、优秀案例展示*
+
+### 用户中心
+![用户中心](./screenshots/profile.png)
+*个人信息、积分管理、VIP会员系统*
+
+### AI功能展示
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/feature-1.png" alt="智能修图"/>
+      <p align="center"><b>智能修图</b> - AI驱动的图像优化</p>
+    </td>
+    <td width="50%">
+      <img src="./screenshots/feature-2.png" alt="场景制变"/>
+      <p align="center"><b>场景制变</b> - 智能场景替换</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/feature-3.png" alt="商品图"/>
+      <p align="center"><b>商品图</b> - 专业电商产品图</p>
+    </td>
+    <td width="50%">
+      <img src="./screenshots/feature-4.png" alt="AI穿衣"/>
+      <p align="center"><b>AI穿衣</b> - 虚拟试衣系统</p>
+    </td>
+  </tr>
+</table>
+
 ### ✨ 核心特性
 
 - 🎨 **智能修图** - AI驱动的图像优化和美化
@@ -249,7 +283,6 @@ POST   /api/category/create   # 创建分类
 - 感谢 [Spring Boot](https://spring.io/projects/spring-boot)
 - 感谢 [Vue.js](https://vuejs.org/)
 - 感谢 [Element Plus](https://element-plus.org/)
-- 参考设计: [LinkFox.com](https://www.linkfox.com)
 
 ## 📧 联系方式
 
